@@ -1,7 +1,7 @@
 # Hi there, I'm Amulya Srivastava! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;Problem Solving;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
