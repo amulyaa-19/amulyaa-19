@@ -75,34 +75,6 @@
 - **10+ RESTful APIs** for comprehensive CRUD operations
 - Efficient **MongoDB** data modeling for scalable performance
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amulyaa-19&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyaa-19&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyaa-19&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🏆 Leadership & Achievements
-
-### 🎪 Technical Aid - ISTE Student Chapter, BIT Sindri
-- **Organized Triveni 2024**: Managed 5 major events with **1,000+ participants** and **5,000+ footfall**
-- **Maintained official ISTE website**: [istebits.com](https://www.istebits.com/)
-- **Conducted 2024 batch induction**: Evaluated **600+ applications** from 1200 students
-- **Selected 15 candidates** through comprehensive technical assessments
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amulyaa-19&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
