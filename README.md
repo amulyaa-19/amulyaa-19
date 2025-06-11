@@ -1,13 +1,14 @@
 # Hi there, I'm Amulya Srivastava! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering student at **B.I.T. Sindri, Dhanbad** (CGPA: 8.05)
-- 💻 Passionate about **Full Stack Development** and **Open Source**
+- 💻 Passionate about **Full Stack Development** and **Problem Solving**
+- 🧠 Actively practicing **Data Structures & Algorithms**
 - 🌱 Currently exploring **Next.js**, **TypeScript**, and **Real-time Applications**
 - 🎯 Building projects that solve real-world problems
 - 📍 Based in Hazaribagh, Jharkhand, India
@@ -18,8 +19,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,6 +32,13 @@
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Core CS Fundamentals
+![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=tree&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge&logo=algorithm&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-9C27B0?style=for-the-badge&logo=object&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-2196F3?style=for-the-badge&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -114,7 +120,5 @@
 </div>
 
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
