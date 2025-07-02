@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering student at **B.I.T. Sindri, Dhanbad** (CGPA: 8.05)
+- 🎓 Computer Science Engineering student at **B.I.T. Sindri, Dhanbad** 
 - 💻 Passionate about **Full Stack Development** and **Problem Solving**
 - 🧠 Actively practicing **Data Structures & Algorithms**
 - 🌱 Currently exploring **Next.js**, **TypeScript**, and **Real-time Applications**
@@ -48,12 +48,24 @@
 
 ## 🎯 Featured Projects
 
+### 🌐 [EventSphere](https://github.com/amulyaa-19/EventSphere)
+> **Campus Event Booking & Registration Platform**
+- Built with **MERN stack**: React, Express, MongoDB, Node.js
+- Google Sign-In using **Firebase Auth** integrated with **JWT-based** route protection
+- Role-based access: Admins can create/edit/delete events, users can register
+- Cloudinary-powered image uploads and responsive UI with **Tailwind CSS**
+- Deployed on **Render (backend)** and **Vercel (frontend)**
+
+---
+
 ### 🎨 [Sketchify](https://github.com/amulyaa-19/Sketchify)
 > **Real-time Collaborative Drawing Canvas**
 - Built with **Next.js**, **TypeScript**, and **WebSockets**
 - Supports real-time collaboration with **sub-100ms latency**
 - Secure authentication with **JWTs** and **HTTP-only cookies**
 - **95%+ mobile compatibility** across multiple device breakpoints
+
+---
 
 ### 📱 [AttendX](https://github.com/amulyaa-19/attendX)
 > **Full-Stack Mobile Attendance Application**
@@ -62,6 +74,8 @@
 - **12+ API endpoints** with **99.9% uptime**
 - Scalable authentication framework with **JWT tokens**
 
+---
+
 ### 📝 [NoteFolio](https://github.com/amulyaa-19/NoteFolio)
 > **Content Management & Sharing Platform**
 - Full-stack application with **React.js** and **TypeScript**
@@ -69,28 +83,21 @@
 - **100% data privacy compliance** with secure authentication
 - MongoDB integration with optimized data modeling
 
-### 🎓 [TechTutor](https://github.com/amulyaa-19/TechTutor)
-> **Course Management Web Application**
-- Backend built with **JavaScript**, **Node.js**, and **Express.js**
-- **10+ RESTful APIs** for comprehensive CRUD operations
-- Efficient **MongoDB** data modeling for scalable performance
+---
+
+
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amulya-srivastava-506ba627b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amulyaa-19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastava.amulya19@gmail.com)
+
+
+**📬 Contact Email: srivastava.amulya19@gmail.com**
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amulyaa-19&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
 
-<div align="center">
-
-</div>
