@@ -39,48 +39,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-## 🎯 Featured Projects
-
-### 🌐 [EventSphere](https://github.com/amulyaa-19/EventSphere)
-> **Campus Event Booking & Registration Platform**
-- Built with **MERN stack**: React, Express, MongoDB, Node.js
-- Google Sign-In using **Firebase Auth** integrated with **JWT-based** route protection
-- Role-based access: Admins can create/edit/delete events, users can register
-- Cloudinary-powered image uploads and responsive UI with **Tailwind CSS**
-- Deployed on **Render (backend)** and **Vercel (frontend)**
-
----
-
-### 🎨 [Sketchify](https://github.com/amulyaa-19/Sketchify)
-> **Real-time Collaborative Drawing Canvas**
-- Built with **Next.js**, **TypeScript**, and **WebSockets**
-- Supports real-time collaboration with **sub-100ms latency**
-- Secure authentication with **JWTs** and **HTTP-only cookies**
-- **95%+ mobile compatibility** across multiple device breakpoints
-
----
-
-### 📱 [AttendX](https://github.com/amulyaa-19/attendX)
-> **Full-Stack Mobile Attendance Application**
-- Backend development with **TypeScript**, **Node.js**, and **Express.js**
-- Database architecture using **Prisma ORM** with **NeonDB**
-- **12+ API endpoints** with **99.9% uptime**
-- Scalable authentication framework with **JWT tokens**
-
----
-
-### 📝 [NoteFolio](https://github.com/amulyaa-19/NoteFolio)
-> **Content Management & Sharing Platform**
-- Full-stack application with **React.js** and **TypeScript**
-- Store and manage embedded content from multiple social platforms
-- **100% data privacy compliance** with secure authentication
-- MongoDB integration with optimized data modeling
-
 ---
 
 
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
   
